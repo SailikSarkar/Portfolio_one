@@ -12,9 +12,9 @@
   --title-color2: #000000;
   --title-color-dark: hsl(var(--hue), var(--sat), 0%);
   --text-color: hsl(var(--hue), var(--sat), 46%);
-  --body-color:#bad4c2;
+  --body-color:#d4d2ba;
   --container-color: rgb(31, 31, 31);
-  --ash1: #bad4c2;
+  --ash1: #d4d2ba;
   --yellow-1:#ff24e2;
   --yellow-2:#ff50ffc0;
   --yellow-3: linear-gradient(104.12deg, #F1F1F1 5.46%, #FFD951 89.65%);
