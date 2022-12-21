@@ -1,6 +1,6 @@
 import React from 'react'
 import './About.css'
-import Aboutimage from '../../assets/circle_image4.png'
+import Aboutimage from '../../assets/about-image.png'
 import CV from '../../assets/CV.pdf'
 import Info from  './Info'
 import {motion} from 'framer-motion'
